@@ -34,3 +34,6 @@ Libraries Used:
 * Seaborn: For creating visualizations
 * Scipy: For mathematical equations
 * Plotly: For creating visualizations
+
+## Resources
+[Tableau Storyboard](https://public.tableau.com/app/profile/sydney.storer/viz/GlobalMentalHealthAwarenessProject/GlobalMentalHealthAwareness)
