@@ -23,7 +23,7 @@ The stigma surrounding mental health disorders often leads to discrimination, mi
 * 03 Scripts - Python scripts using Jupyter Notebook
 * 04 Analysis - Subfolder Visualizations containing python visualizations
 
-## Code
+## Technology Used
 Code was written in Python and executed using Jupyter Notebook
 
 Libraries Used:
