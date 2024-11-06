@@ -25,6 +25,7 @@ The stigma surrounding mental health disorders often leads to discrimination, mi
 
 ## Technology Used
 Code was written in Python and executed using Jupyter Notebook
+ChatGPT was used for code assistance
 
 Libraries Used:
 * Pandas: For data manipulation and analysis
